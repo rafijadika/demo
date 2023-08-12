@@ -57,5 +57,5 @@ public class penginapan1 {
         System.out.println("Alamat: " + penghuni1.getAlamat());
         System.out.println("Nomor Kamar: " + penghuni1.getNomor_kamar());
     }
-}
+} 
 
